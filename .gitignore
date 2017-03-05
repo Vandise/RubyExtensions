@@ -1,0 +1,6 @@
+.bundle
+.RUBYARCHDIR.time
+.DS_Store
+.git
+.o
+bin/
